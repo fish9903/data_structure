@@ -1,2 +1,2 @@
-# data_structure
-data structure
+# 자료구조
+자료구조 코드 모음
