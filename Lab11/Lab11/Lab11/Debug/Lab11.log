@@ -1,0 +1,6 @@
+﻿  show13.cpp
+  test13.cpp
+C:\Users\조광호\Desktop\Ho\학교자료\자료구조\Lab11\Lab11\Lab11\test13.cpp(16,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  wtgraph.cpp
+  Generating Code...
+  Lab11.vcxproj -> C:\Users\조광호\Desktop\Ho\학교자료\자료구조\Lab11\Lab11\Debug\Lab11.exe

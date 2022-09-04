@@ -1,0 +1,9 @@
+﻿  heap.cpp
+  testb.cpp
+C:\Users\조광호\Desktop\Ho\학교자료\자료구조\project3\Project3\Project3\testb.cpp(63,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\조광호\Desktop\Ho\학교자료\자료구조\project3\Project3\Project3\heap.cpp(253,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\조광호\Desktop\Ho\학교자료\자료구조\project3\Project3\Project3\heap.cpp(243): message : while compiling class template member function 'void Heap<Person>::print(void) const'
+C:\Users\조광호\Desktop\Ho\학교자료\자료구조\project3\Project3\Project3\testb.cpp(94): message : see reference to function template instantiation 'void Heap<Person>::print(void) const' being compiled
+C:\Users\조광호\Desktop\Ho\학교자료\자료구조\project3\Project3\Project3\testb.cpp(64): message : see reference to class template instantiation 'Heap<Person>' being compiled
+  Generating Code...
+  Project3.vcxproj -> C:\Users\조광호\Desktop\Ho\학교자료\자료구조\project3\Project3\Debug\Project3.exe

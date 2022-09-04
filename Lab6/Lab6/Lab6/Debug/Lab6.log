@@ -1,0 +1,5 @@
+﻿  listdbl.cpp
+  test9.cpp
+C:\Users\조광호\Desktop\Ho\학교자료\자료구조\Lab6\Lab6\Lab6\test9.cpp(35,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Lab6.vcxproj -> C:\Users\조광호\Desktop\Ho\학교자료\자료구조\Lab6\Lab6\Debug\Lab6.exe

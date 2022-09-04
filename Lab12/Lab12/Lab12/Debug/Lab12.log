@@ -1,0 +1,8 @@
+﻿  search.cpp
+  sort.cpp
+  Timer.cpp
+  timesort.cpp
+C:\Users\조광호\Desktop\Ho\학교자료\자료구조\Lab12\Lab12\Lab12\timesort.cpp(37,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  timesrch.cpp
+  Generating Code...
+  Lab12.vcxproj -> C:\Users\조광호\Desktop\Ho\학교자료\자료구조\Lab12\Lab12\Debug\Lab12.exe

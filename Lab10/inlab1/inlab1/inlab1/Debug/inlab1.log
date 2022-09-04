@@ -1,0 +1,8 @@
+﻿  heap.cpp
+  ossim.cpp
+C:\Users\조광호\Desktop\Ho\학교자료\자료구조\Lab10\inlab1\inlab1\inlab1\ossim.cpp(38,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\조광호\Desktop\Ho\학교자료\자료구조\Lab10\inlab1\inlab1\inlab1\ossim.cpp(44,9): warning C4101: 'numArrivals': unreferenced local variable
+  ptyqueue.cpp
+  testbpq.cpp
+  Generating Code...
+  inlab1.vcxproj -> C:\Users\조광호\Desktop\Ho\학교자료\자료구조\Lab10\inlab1\inlab1\Debug\inlab1.exe

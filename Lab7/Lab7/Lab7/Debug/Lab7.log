@@ -1,0 +1,5 @@
+﻿  listrec.cpp
+  test10.cpp
+C:\Users\조광호\Desktop\Ho\학교자료\자료구조\Lab7\Lab7\Lab7\test10.cpp(16,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Lab7.vcxproj -> C:\Users\조광호\Desktop\Ho\학교자료\자료구조\Lab7\Lab7\Debug\Lab7.exe

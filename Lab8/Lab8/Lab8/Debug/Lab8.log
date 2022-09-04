@@ -1,0 +1,8 @@
+﻿  bstree.cpp
+  test11.cpp
+C:\Users\조광호\Desktop\Ho\학교자료\자료구조\Lab8\Lab8\Lab8\test11.cpp(57,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+C:\Users\조광호\Desktop\Ho\학교자료\자료구조\Lab8\Lab8\Lab8\bstree.cpp(202): warning C4715: 'BSTree<TestData,int>::isFull': not all control paths return a value
+C:\Users\조광호\Desktop\Ho\학교자료\자료구조\Lab8\Lab8\Lab8\bstree.cpp(82): warning C4715: 'BSTree<TestData,int>::retrieveSub': not all control paths return a value
+C:\Users\조광호\Desktop\Ho\학교자료\자료구조\Lab8\Lab8\Lab8\bstree.cpp(121): warning C4715: 'BSTree<TestData,int>::removeSub': not all control paths return a value
+  Lab8.vcxproj -> C:\Users\조광호\Desktop\Ho\학교자료\자료구조\Lab8\Lab8\Debug\Lab8.exe
