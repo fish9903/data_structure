@@ -1,7 +1,0 @@
-﻿  listlnk.cpp
-  test7.cpp
-C:\Users\조광호\Desktop\Ho\학교자료\자료구조\Lab4\Lab4\Lab4\test7.cpp(35,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Generating Code...
-C:\Users\조광호\Desktop\Ho\학교자료\자료구조\Lab4\Lab4\Lab4\listlnk.cpp(227): warning C4715: 'List<char>::gotoNext': not all control paths return a value
-C:\Users\조광호\Desktop\Ho\학교자료\자료구조\Lab4\Lab4\Lab4\listlnk.cpp(248): warning C4715: 'List<char>::gotoPrior': not all control paths return a value
-  Lab4.vcxproj -> C:\Users\조광호\Desktop\Ho\학교자료\자료구조\Lab4\Lab4\Debug\Lab4.exe

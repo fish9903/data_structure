@@ -1,5 +1,0 @@
-﻿  main.cpp
-C:\Users\조광호\Desktop\Ho\학교자료\자료구조\project1\Project1\Project1\main.cpp(17,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  phonebook.cpp
-  Generating Code...
-  Project1.vcxproj -> C:\Users\조광호\Desktop\Ho\학교자료\자료구조\project1\Project1\Debug\Project1.exe
